@@ -1,6 +1,7 @@
 # WeatherSense: Current Weather Conditions and City-based Forecast
-
 WeatherSense is a web app that gives you real-time weather updates for your location or any city you search. Stay informed about temperature, wind speed, humidity, and cloud cover whether you're planning your day, checking before a trip, or just staying updated.
+
+Weather Website: https://weathervue-website.netlify.app/
 
 # Features
 
